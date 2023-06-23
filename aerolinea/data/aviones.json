@@ -1,0 +1,42 @@
+[
+  {
+    "matricula": "HK2004",
+    "modelo": "Airbus 567"
+  },
+  {
+    "matricula": "HK2000",
+    "modelo": "Airbus 319"
+  },
+  {
+    "matricula": "HK2010",
+    "modelo": "Boeing 817"
+  },
+  {
+    "matricula": "HK2012",
+    "modelo": "Boeing 817"
+  },
+  {
+    "matricula": "HK2002",
+    "modelo": "Boeing 789"
+  },
+  {
+    "matricula": "HK2003",
+    "modelo": "Boeing 213"
+  },
+  {
+    "matricula": "HK2005",
+    "modelo": "Airbus A322XLR"
+  },
+  {
+    "matricula": "HK2009",
+    "modelo": "Airbus 781"
+  },
+  {
+    "matricula": "HK2011",
+    "modelo": "Airbus 371"
+  },
+  {
+    "matricula": "HK2008",
+    "modelo": "Airbus A321XLR"
+  }
+]

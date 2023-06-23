@@ -1,0 +1,888 @@
+[
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 345678,
+        "duracion": "PT18H21M",
+        "duracionS": "18:21",
+        "destino": "Bogota",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-09-10T19:22",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Garcia Toro",
+        "identifiacion": "P2002",
+        "nombre": "Anyela"
+      },
+      "fechaHoraSinStr": "2022-11-27T21:38:28.864966700",
+      "cancelada": false,
+      "fechaHora": "2022-11-27 21:38",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "E",
+      "posicion": "08E",
+      "ubicacion": "CENTRAL",
+      "fila": 8,
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "No",
+      "disponible": false
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 345678,
+        "duracion": "PT18H21M",
+        "duracionS": "18:21",
+        "destino": "Bogota",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-09-10T19:22",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Garcia Toro",
+        "identifiacion": "P2002",
+        "nombre": "Anyela"
+      },
+      "fechaHoraSinStr": "2022-11-27T21:38:28.864966700",
+      "cancelada": false,
+      "fechaHora": "2022-11-27 21:38",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "D",
+      "posicion": "10D",
+      "ubicacion": "PASILLO",
+      "fila": 10,
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "No",
+      "disponible": false
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT5H",
+        "duracionS": "05:00",
+        "destino": "Manizales",
+        "origen": "Bogota"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:36:58.194357",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Zapata Gaviria",
+        "identifiacion": "P9009",
+        "nombre": "Estefania"
+      },
+      "fechaHoraSinStr": "2022-11-27T21:39:11.988196500",
+      "cancelada": false,
+      "fechaHora": "2022-11-27 21:39",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "E",
+      "posicion": "15E",
+      "ubicacion": "CENTRAL",
+      "fila": 15,
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "No",
+      "disponible": false
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 180000,
+        "duracion": "PT4H19M",
+        "duracionS": "04:19",
+        "destino": "Cartagena",
+        "origen": "Bogota"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:37:12.832755",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 817"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Zapata Gaviria",
+        "identifiacion": "P9009",
+        "nombre": "Estefania"
+      },
+      "fechaHoraSinStr": "2022-11-27T21:39:11.988196500",
+      "cancelada": false,
+      "fechaHora": "2022-11-27 21:39",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "D",
+      "posicion": "10D",
+      "ubicacion": "PASILLO",
+      "fila": 10,
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 817"
+      },
+      "disponibleString": "No",
+      "disponible": false
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 120000,
+        "duracion": "PT5H40M",
+        "duracionS": "05:40",
+        "destino": "Cucuta",
+        "origen": "Tunja"
+      },
+      "cancelado": false,
+      "fechaHora": "2022-11-24T12:26:32.391294900",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Airbus A322XLR"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Garcia Toro",
+        "identifiacion": "P2002",
+        "nombre": "Anyela"
+      },
+      "fechaHoraSinStr": "2022-11-28T09:06:38.804086700",
+      "cancelada": false,
+      "fechaHora": "2022-11-28 09:06",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "B",
+      "posicion": "15B",
+      "ubicacion": "CENTRAL",
+      "fila": 15,
+      "avion": {
+        "matricula": "HK2005",
+        "modelo": "Airbus A322XLR"
+      },
+      "disponibleString": "No",
+      "disponible": false
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 230000,
+        "duracion": "PT5H23M",
+        "duracionS": "05:23",
+        "destino": "Cartagena",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:38:01.115827400",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Garcia Toro",
+        "identifiacion": "P2002",
+        "nombre": "Anyela"
+      },
+      "fechaHoraSinStr": "2022-11-28T09:06:38.804086700",
+      "cancelada": false,
+      "fechaHora": "2022-11-28 09:06",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "B",
+      "posicion": "14B",
+      "ubicacion": "CENTRAL",
+      "fila": 14,
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      },
+      "disponibleString": "No",
+      "disponible": false
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT6H30M",
+        "duracionS": "06:30",
+        "destino": "Bogota",
+        "origen": "San Andres"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-12-10T21:41",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2003",
+        "modelo": "Boeing 213"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Garcia Toro",
+        "identifiacion": "P2002",
+        "nombre": "Anyela"
+      },
+      "fechaHoraSinStr": "2022-11-28T09:06:38.804086700",
+      "cancelada": false,
+      "fechaHora": "2022-11-28 09:06",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "A",
+      "posicion": "01A",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "OPORTO",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2003",
+        "modelo": "Boeing 213"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 180000,
+        "duracion": "PT4H19M",
+        "duracionS": "04:19",
+        "destino": "Cartagena",
+        "origen": "Bogota"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:37:12.832755",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 817"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Suarez Ortiz",
+        "identifiacion": "P6006",
+        "nombre": "Brahian"
+      },
+      "fechaHoraSinStr": "2022-12-11T19:41",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 19:41",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "E",
+      "posicion": "15E",
+      "ubicacion": "CENTRAL",
+      "fila": 15,
+      "avion": {
+        "matricula": "HK2010",
+        "modelo": "Boeing 817"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT6H30M",
+        "duracionS": "06:30",
+        "destino": "Bogota",
+        "origen": "San Andres"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:37:33.143318600",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2009",
+        "modelo": "Airbus 781"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Suarez Ortiz",
+        "identifiacion": "P6006",
+        "nombre": "Brahian"
+      },
+      "fechaHoraSinStr": "2022-12-11T20:36",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 20:36",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "C",
+      "posicion": "01C",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "WHISKEY",
+      "menu": "POLLO_A_LA_NARANJA",
+      "avion": {
+        "matricula": "HK2009",
+        "modelo": "Airbus 781"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 230000,
+        "duracion": "PT5H23M",
+        "duracionS": "05:23",
+        "destino": "Cartagena",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:38:01.115827400",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Zapata Gaviria",
+        "identifiacion": "P9009",
+        "nombre": "Estefania"
+      },
+      "fechaHoraSinStr": "2022-12-11T21:51",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 21:51",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "C",
+      "posicion": "03C",
+      "ubicacion": "PASILLO",
+      "fila": 3,
+      "licor": "VINO",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 230000,
+        "duracion": "PT5H23M",
+        "duracionS": "05:23",
+        "destino": "Cartagena",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:38:01.115827400",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Zapata Gaviria",
+        "identifiacion": "P9009",
+        "nombre": "Estefania"
+      },
+      "fechaHoraSinStr": "2022-12-11T21:54",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 21:54",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "B",
+      "posicion": "04B",
+      "ubicacion": "PASILLO",
+      "fila": 4,
+      "licor": "VINO",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 230000,
+        "duracion": "PT5H23M",
+        "duracionS": "05:23",
+        "destino": "Cartagena",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:38:01.115827400",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Suarez Ortiz",
+        "identifiacion": "P6006",
+        "nombre": "Brahian"
+      },
+      "fechaHoraSinStr": "2022-12-11T22:00",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 22:00",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "A",
+      "posicion": "01A",
+      "ubicacion": "VENTANA",
+      "fila": 1,
+      "licor": "OPORTO",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 230000,
+        "duracion": "PT5H23M",
+        "duracionS": "05:23",
+        "destino": "Cartagena",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:38:01.115827400",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Zapata Gaviria",
+        "identifiacion": "P9009",
+        "nombre": "Estefania"
+      },
+      "fechaHoraSinStr": "2022-12-11T22:00",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 22:00",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "B",
+      "posicion": "02B",
+      "ubicacion": "PASILLO",
+      "fila": 2,
+      "licor": "VINO",
+      "menu": "POLLO_A_LA_NARANJA",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 230000,
+        "duracion": "PT5H23M",
+        "duracionS": "05:23",
+        "destino": "Cartagena",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:38:01.115827400",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Usma Londono",
+        "identifiacion": "P1001",
+        "nombre": "Liceth Juanita"
+      },
+      "fechaHoraSinStr": "2022-12-11T22:00",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 22:00",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "D",
+      "posicion": "04D",
+      "ubicacion": "VENTANA",
+      "fila": 4,
+      "licor": "VINO",
+      "menu": "POLLO_A_LA_NARANJA",
+      "avion": {
+        "matricula": "HK2002",
+        "modelo": "Boeing 789"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT5H",
+        "duracionS": "05:00",
+        "destino": "Manizales",
+        "origen": "Bogota"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:36:58.194357",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Vinasco Arango",
+        "identifiacion": "P7007",
+        "nombre": "Camila"
+      },
+      "fechaHoraSinStr": "2022-12-11T22:24",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 22:24",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "A",
+      "posicion": "03A",
+      "ubicacion": "VENTANA",
+      "fila": 3,
+      "licor": "WHISKEY",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 345678,
+        "duracion": "PT18H21M",
+        "duracionS": "18:21",
+        "destino": "Bogota",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-09-10T19:22",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Vinasco Arango",
+        "identifiacion": "P7007",
+        "nombre": "Camila"
+      },
+      "fechaHoraSinStr": "2022-12-11T22:24",
+      "cancelada": false,
+      "fechaHora": "2022-12-11 22:24",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "A",
+      "posicion": "03A",
+      "ubicacion": "VENTANA",
+      "fila": 3,
+      "licor": "WHISKEY",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT5H",
+        "duracionS": "05:00",
+        "destino": "Manizales",
+        "origen": "Bogota"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:36:58.194357",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Suarez Ortiz",
+        "identifiacion": "P6006",
+        "nombre": "Brahian"
+      },
+      "fechaHoraSinStr": "2022-12-15T21:31",
+      "cancelada": false,
+      "fechaHora": "2022-12-15 21:31",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "C",
+      "posicion": "03C",
+      "ubicacion": "PASILLO",
+      "fila": 3,
+      "licor": "WHISKEY",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 345678,
+        "duracion": "PT18H21M",
+        "duracionS": "18:21",
+        "destino": "Bogota",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-09-10T19:22",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Suarez Ortiz",
+        "identifiacion": "P6006",
+        "nombre": "Brahian"
+      },
+      "fechaHoraSinStr": "2022-12-15T21:31",
+      "cancelada": false,
+      "fechaHora": "2022-12-15 21:31",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "C",
+      "posicion": "03C",
+      "ubicacion": "PASILLO",
+      "fila": 3,
+      "licor": "WHISKEY",
+      "menu": "VEGETARIANO",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 100000,
+        "duracion": "PT5H",
+        "duracionS": "05:00",
+        "destino": "Manizales",
+        "origen": "Bogota"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-10-21T20:36:58.194357",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Suarez Ortiz",
+        "identifiacion": "P6006",
+        "nombre": "Brahian"
+      },
+      "fechaHoraSinStr": "2022-12-15T21:38",
+      "cancelada": false,
+      "fechaHora": "2022-12-15 21:38",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "B",
+      "posicion": "01B",
+      "ubicacion": "PASILLO",
+      "fila": 1,
+      "licor": "WHISKEY",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  },
+  {
+    "checkInString": "Pendiente",
+    "checkIn": false,
+    "vuelo": {
+      "trayecto": {
+        "costo": 345678,
+        "duracion": "PT18H21M",
+        "duracionS": "18:21",
+        "destino": "Bogota",
+        "origen": "Manizales"
+      },
+      "cancelado": false,
+      "fechaHora": "2023-09-10T19:22",
+      "cancelado2": "No",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      }
+    },
+    "reserva": {
+      "pasajero": {
+        "apellido": "Suarez Ortiz",
+        "identifiacion": "P6006",
+        "nombre": "Brahian"
+      },
+      "fechaHoraSinStr": "2022-12-15T21:38",
+      "cancelada": false,
+      "fechaHora": "2022-12-15 21:38",
+      "canceladaString": "Vigente"
+    },
+    "silla": {
+      "columna": "A",
+      "posicion": "02A",
+      "ubicacion": "VENTANA",
+      "fila": 2,
+      "licor": "WHISKEY",
+      "menu": "FILETE_DE_PESCADO",
+      "avion": {
+        "matricula": "HK2004",
+        "modelo": "Airbus 567"
+      },
+      "disponibleString": "Si",
+      "disponible": true
+    }
+  }
+]

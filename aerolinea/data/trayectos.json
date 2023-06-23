@@ -1,0 +1,86 @@
+[
+  {
+    "costo": 345678,
+    "duracion": "PT18H21M",
+    "destino": "Bogota",
+    "origen": "Manizales",
+    "duracionS": "18:21"
+  },
+  {
+    "costo": 100000,
+    "duracion": "PT5H",
+    "destino": "Manizales",
+    "origen": "Bogota",
+    "duracionS": "05:00"
+  },
+  {
+    "costo": 180000,
+    "duracion": "PT4H19M",
+    "destino": "Bogota",
+    "origen": "Cartagena",
+    "duracionS": "04:19"
+  },
+  {
+    "costo": 180000,
+    "duracion": "PT4H19M",
+    "destino": "Cartagena",
+    "origen": "Bogota",
+    "duracionS": "04:19"
+  },
+  {
+    "costo": 120000,
+    "duracion": "PT3H9M",
+    "destino": "Cali",
+    "origen": "Manizales",
+    "duracionS": "03:09"
+  },
+  {
+    "costo": 120000,
+    "duracion": "PT3H9M",
+    "destino": "Manizales",
+    "origen": "Cali",
+    "duracionS": "03:09"
+  },
+  {
+    "costo": 100000,
+    "duracion": "PT6H30M",
+    "destino": "Bogota",
+    "origen": "San Andres",
+    "duracionS": "06:30"
+  },
+  {
+    "costo": 100000,
+    "duracion": "PT6H30M",
+    "destino": "San Andres",
+    "origen": "Bogota",
+    "duracionS": "06:30"
+  },
+  {
+    "costo": 230000,
+    "duracion": "PT5H23M",
+    "destino": "Cartagena",
+    "origen": "Manizales",
+    "duracionS": "05:23"
+  },
+  {
+    "costo": 150000,
+    "duracion": "PT4H",
+    "destino": "Bucaramanga",
+    "origen": "Manizales",
+    "duracionS": "04:00"
+  },
+  {
+    "costo": 1490000,
+    "duracion": "PT55M",
+    "destino": "Leticia",
+    "origen": "Pasto",
+    "duracionS": "00:55"
+  },
+  {
+    "costo": 120000,
+    "duracion": "PT5H40M",
+    "destino": "Cucuta",
+    "origen": "Tunja",
+    "duracionS": "05:40"
+  }
+]

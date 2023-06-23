@@ -1,0 +1,17 @@
+                         LISTADO DE RESERVAS CON VUELOS RESERVADOS
+--------------------------------------------------------------------------------------------
+F. RESERVA              ID         NOMBRE            APELLIDO         ESTADO       
+--------------------------------------------------------------------------------------------
+2022-10-29 16:40       P1001     Liceth Juanita      Usma Londono     Vigente                             
+          
+VUELOS DE RESERVA
+Fecha y hora: 2022-10-21 20:38 - Estado: Vigente - Checkin: Pendiente 
+ Avion: HK2004 - Airbus 567, Silla: 15E-Economica
+
+2022-10-29 16:41       P7007     Camila              Vinasco Arango   Vigente                             
+          
+VUELOS DE RESERVA
+Fecha y hora: 2022-10-21 20:36 - Estado: Vigente - Checkin: Pendiente 
+ Avion: HK2004 - Airbus 567, Silla: 12C-Economica
+
+--------------------------------------------------------------------------------------------

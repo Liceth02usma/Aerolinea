@@ -1,0 +1,156 @@
+[
+  {
+    "pasajero": {
+      "apellido": "Garcia Toro",
+      "identifiacion": "P2002",
+      "nombre": "Anyela"
+    },
+    "fechaHoraSinStr": "2022-11-27T21:38:28.864966700",
+    "cancelada": false,
+    "fechaHora": "2022-11-27 21:38",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Zapata Gaviria",
+      "identifiacion": "P9009",
+      "nombre": "Estefania"
+    },
+    "fechaHoraSinStr": "2022-11-27T21:39:11.988196500",
+    "cancelada": false,
+    "fechaHora": "2022-11-27 21:39",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Garcia Toro",
+      "identifiacion": "P2002",
+      "nombre": "Anyela"
+    },
+    "fechaHoraSinStr": "2022-11-28T09:06:38.804086700",
+    "cancelada": false,
+    "fechaHora": "2022-11-28 09:06",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Suarez Ortiz",
+      "identifiacion": "P6006",
+      "nombre": "Brahian"
+    },
+    "fechaHoraSinStr": "2022-12-11T19:41",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 19:41",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Suarez Ortiz",
+      "identifiacion": "P6006",
+      "nombre": "Brahian"
+    },
+    "fechaHoraSinStr": "2022-12-11T20:36",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 20:36",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Zapata Gaviria",
+      "identifiacion": "P9009",
+      "nombre": "Estefania"
+    },
+    "fechaHoraSinStr": "2022-12-11T21:21",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 21:21",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Zapata Gaviria",
+      "identifiacion": "P9009",
+      "nombre": "Estefania"
+    },
+    "fechaHoraSinStr": "2022-12-11T21:51",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 21:51",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Zapata Gaviria",
+      "identifiacion": "P9009",
+      "nombre": "Estefania"
+    },
+    "fechaHoraSinStr": "2022-12-11T21:54",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 21:54",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Suarez Ortiz",
+      "identifiacion": "P6006",
+      "nombre": "Brahian"
+    },
+    "fechaHoraSinStr": "2022-12-11T22:00",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 22:00",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Zapata Gaviria",
+      "identifiacion": "P9009",
+      "nombre": "Estefania"
+    },
+    "fechaHoraSinStr": "2022-12-11T22:00",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 22:00",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Usma Londono",
+      "identifiacion": "P1001",
+      "nombre": "Liceth Juanita"
+    },
+    "fechaHoraSinStr": "2022-12-11T22:00",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 22:00",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Vinasco Arango",
+      "identifiacion": "P7007",
+      "nombre": "Camila"
+    },
+    "fechaHoraSinStr": "2022-12-11T22:24",
+    "cancelada": false,
+    "fechaHora": "2022-12-11 22:24",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Suarez Ortiz",
+      "identifiacion": "P6006",
+      "nombre": "Brahian"
+    },
+    "fechaHoraSinStr": "2022-12-15T21:31",
+    "cancelada": false,
+    "fechaHora": "2022-12-15 21:31",
+    "canceladaString": "Vigente"
+  },
+  {
+    "pasajero": {
+      "apellido": "Suarez Ortiz",
+      "identifiacion": "P6006",
+      "nombre": "Brahian"
+    },
+    "fechaHoraSinStr": "2022-12-15T21:38",
+    "cancelada": false,
+    "fechaHora": "2022-12-15 21:38",
+    "canceladaString": "Vigente"
+  }
+]

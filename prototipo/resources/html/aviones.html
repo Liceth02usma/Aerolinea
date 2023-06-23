@@ -1,0 +1,61 @@
+<html>
+
+<body>
+  <h2 class="center">Aviones</h2>
+  <div id="info-aviones" class="center scrollable">
+    <!-- aquí se inyecta la tabla con todos los registros -->
+      
+  </div>
+
+  <!-- enlaces a las operaciones CRUD -->
+  <ul id="list-crud-aviones" class="layout-item-modules pure-g center">
+    <li class="layout-item-module layout-item-module-create pure-u">
+      <a Agregar href="#aviones-create">Crear</a>
+    </li>
+    <li class="layout-item-module layout-item-module-retrieve pure-u">
+      <a href="#aviones-retrieve">Buscar</a>
+    </li>
+    <li class="layout-item-module layout-item-module-update pure-u">
+      <a href="#aviones-update">Actualizar</a>
+    </li>
+    <li class="layout-item-module layout-item-module-delete pure-u">
+      <a href="#aviones-delete">Eliminar</a>
+    </li>
+  </ul>
+  
+  <div id="frm-edit-aviones" class="details hide rounded center">
+    <!-- 
+      formulario donde se harán todas las operaciones CRUD
+      basado en: basado en: https://www.sanwebe.com/2014/08/css-html-forms-designs 
+     -->
+    <form id="form-aviones">
+      <ul class="form-style-1">
+
+        <li>
+          <label>Matricula <span class="required">*</span></label>
+          <input type="text" id="matricula" name="matricula" class="field-long" placeholder="Seis o siete caracteres. Ejemplo: HK 0000, HK0000" required min="0" max="7"/>
+        </li>
+        <li>
+          <label>Modelo <span class="required">*</span></label>
+          <input type="text" id="modelo" name="modelo" class="field-long" placeholder="Minimo 10, maximo 30 caracteres" required min="5" max="30"/>
+        </li>
+
+        <li>
+          <label>Sillas ejecutivas y economicas <span class="required">*</span></label>
+          <select type="number" id="ejecutivas" name="ejecutivas" class="field-divided" placeholder="Ejecutivas" required min="0" max="99"></select> 
+          <select type="number" id="economicas" name="economicas" class="field-divided" placeholder="Economicas" required min="0" max="99"></select> 
+        </li>
+
+        <li id="state"></li>
+
+        <li>
+          <button id="aviones-aceptar" type="button" class="button-primary">Aceptar</button>
+          <button id="aviones-cerrar" type="button" class="button-secondary">Cerrar</button>
+        </li>
+      </ul>
+    </form>
+  </div>
+
+</body>
+
+</html>

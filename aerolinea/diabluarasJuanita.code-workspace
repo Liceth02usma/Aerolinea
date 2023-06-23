@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../prototipo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prototipo"
+	}
+}

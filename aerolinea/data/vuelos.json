@@ -1,0 +1,226 @@
+[
+  {
+    "trayecto": {
+      "costo": 100000,
+      "duracion": "PT5H",
+      "duracionS": "05:00",
+      "destino": "Manizales",
+      "origen": "Bogota"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-10-21T20:36:58.194357",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2004",
+      "modelo": "Airbus 567"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 180000,
+      "duracion": "PT4H19M",
+      "duracionS": "04:19",
+      "destino": "Bogota",
+      "origen": "Cartagena"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-10-21T20:37:05.624303200",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2000",
+      "modelo": "Airbus 319"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 180000,
+      "duracion": "PT4H19M",
+      "duracionS": "04:19",
+      "destino": "Cartagena",
+      "origen": "Bogota"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-10-21T20:37:12.832755",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 817"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 100000,
+      "duracion": "PT6H30M",
+      "duracionS": "06:30",
+      "destino": "Bogota",
+      "origen": "San Andres"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-10-21T20:37:33.143318600",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2009",
+      "modelo": "Airbus 781"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 230000,
+      "duracion": "PT5H23M",
+      "duracionS": "05:23",
+      "destino": "Cartagena",
+      "origen": "Manizales"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-10-21T20:38:01.115827400",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2002",
+      "modelo": "Boeing 789"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT3H9M",
+      "duracionS": "03:09",
+      "destino": "Manizales",
+      "origen": "Cali"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-10-21T20:38:14.795356600",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2004",
+      "modelo": "Airbus 567"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 230000,
+      "duracion": "PT5H23M",
+      "duracionS": "05:23",
+      "destino": "Cartagena",
+      "origen": "Manizales"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-10-21T20:38:21.955985500",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2010",
+      "modelo": "Boeing 817"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT3H9M",
+      "duracionS": "03:09",
+      "destino": "Manizales",
+      "origen": "Cali"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-10-21T20:38:32.331360300",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2000",
+      "modelo": "Airbus 319"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 120000,
+      "duracion": "PT5H40M",
+      "duracionS": "05:40",
+      "destino": "Cucuta",
+      "origen": "Tunja"
+    },
+    "cancelado": false,
+    "fechaHora": "2022-11-24T12:26:32.391294900",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2005",
+      "modelo": "Airbus A322XLR"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 345678,
+      "duracion": "PT18H21M",
+      "duracionS": "18:21",
+      "destino": "Bogota",
+      "origen": "Manizales"
+    },
+    "cancelado": false,
+    "fechaHora": "2022-12-04T00:30",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2004",
+      "modelo": "Airbus 567"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 345678,
+      "duracion": "PT18H21M",
+      "duracionS": "18:21",
+      "destino": "Bogota",
+      "origen": "Manizales"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-09-10T19:22",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2004",
+      "modelo": "Airbus 567"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 345678,
+      "duracion": "PT18H21M",
+      "duracionS": "18:21",
+      "destino": "Bogota",
+      "origen": "Manizales"
+    },
+    "cancelado": false,
+    "fechaHora": "2022-11-17T23:30",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2004",
+      "modelo": "Airbus 567"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 100000,
+      "duracion": "PT5H",
+      "duracionS": "05:00",
+      "destino": "Manizales",
+      "origen": "Bogota"
+    },
+    "cancelado": false,
+    "fechaHora": "2022-10-31T16:16",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2004",
+      "modelo": "Airbus 567"
+    }
+  },
+  {
+    "trayecto": {
+      "costo": 100000,
+      "duracion": "PT6H30M",
+      "duracionS": "06:30",
+      "destino": "Bogota",
+      "origen": "San Andres"
+    },
+    "cancelado": false,
+    "fechaHora": "2023-12-10T21:41",
+    "cancelado2": "No",
+    "avion": {
+      "matricula": "HK2003",
+      "modelo": "Boeing 213"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+                         LISTADO DE TRAYECTOS
+-----------------------------------------------------------------------
+ORIGEN            DESTINO              COSTO          DURACION
+-----------------------------------------------------------------------
+Manizales        Bogota                100000          05:00
+Bogota           Manizales             100000          05:00
+Cartagena        Bogota                180000          04:19
+Bogota           Cartagena             180000          04:19
+Manizales        Cali                  120000          03:09
+Cali             Manizales             120000          03:09
+San Andres       Bogota                100000          06:30
+Bogota           San Andres            100000          06:30
+Santa Marta      Villa Vicencio        100000          05:30
+Manizales        Cartagena             230000          05:23
+-----------------------------------------------------------------------

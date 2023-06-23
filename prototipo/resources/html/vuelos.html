@@ -1,0 +1,67 @@
+<html>
+
+<body>
+  <h2 class="center">Vuelos</h2>
+  <div id="info-vuelos" class="center scrollable">
+    <!-- aquí se inyecta la tabla con todos los registros -->
+  </div>
+
+  <!-- enlaces a las operaciones CRUD -->
+  <ul id="list-crud-vuelos" class="layout-item-modules pure-g center">
+    <li class="layout-item-module layout-item-module-create pure-u">
+      <a Agregar href="#vuelos-create">Crear</a>
+    </li>
+    <li class="layout-item-module layout-item-module-retrieve pure-u">
+      <a href="#vuelos-retrieve">Buscar</a>
+    </li>
+    <li class="layout-item-module layout-item-module-update pure-u">
+      <a href="#vuelos-update">Actualizar</a>
+    </li>
+    <li class="layout-item-module layout-item-module-delete pure-u">
+      <a href="#vuelos-delete">Eliminar</a>
+    </li>
+  </ul>
+  
+  <div id="frm-edit-vuelos" class="details hide rounded center">
+    <!-- 
+      formulario donde se harán todas las operaciones CRUD
+      basado en: basado en: https://www.sanwebe.com/2014/08/css-html-forms-designs 
+     -->
+    <form id="form-vuelos">
+      <ul class="form-style-1">
+        <li>
+          <label>Fecha y hora <span class="required">*</span></label>
+          <input type="datetime-local" id="fechaHora" name="fechaHora" class="field-long" placeholder="">
+          </select>
+        </li>
+
+        <li>
+          <label>Trayecto <span class="required">*</span></label>
+          <select id="trayectos" name="trayectos" class="field-select">
+            <option value="Advertise">Elija un destino</option>
+          </select>
+        </li>
+
+        <li>
+          <label>Avion <span class="required">*</span></label>
+          <select id="aviones" name="aviones" class="field-select">
+            <option value="Advertise">Elija un avion</option>
+          </select>
+        </li>
+
+        <li>
+          <label><input type="checkbox" id="cancelado" name="cancelado" value=""> Cancelado</label><br>
+
+        </li>
+
+        <li>
+          <button id="vuelos-aceptar" type="button" class="button-primary">Aceptar</button>
+          <button id="vuelos-cerrar" type="button" class="button-secondary">Cerrar</button>
+        </li>
+      </ul>
+    </form>
+  </div>
+
+</body>
+
+</html>
